@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaushik Baruah
-- 👀 I’m interested in MERN stack development
-- 🌱 I’m currently learning Data-Structre in C++
+- 👀 A MERN stack developer
+- 🌱 Currently learning Data-Structre in C++
 
 
 ### 🧰 Languages and Tools
@@ -15,10 +15,3 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
-
-
-<!---
-K4350/K4350 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
