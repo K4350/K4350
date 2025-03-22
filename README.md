@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kaushik Baruah<br>👨‍💻 A Software Engineer at VOIS<br>🌱 I’m currently learning Data-Structre in C++<br>⚡ <br>
+👋 Hi, I’m Kaushik Baruah<br>👨‍💻 A Software Engineer at VOIS<br>🌱 I’m currently learning Data-Structre in C++<br>
 
 
 ## 🌐 Socials:
@@ -21,8 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=k4350&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kaushik4350) 
+ <!-- ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kaushik4350)  -->
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
