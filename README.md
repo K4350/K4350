@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kaushik Baruah<br>👨‍💻 A Software Engineer at VOIS<br>🌱 I’m currently learning Data-Structre in C++<br>
+👋 Hi, I’m Kaushik Baruah<br>👨‍💻 A Software Engineer at VOIS<br>
 
 
 ## 🌐 Socials:
